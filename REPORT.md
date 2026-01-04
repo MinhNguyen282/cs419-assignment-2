@@ -369,8 +369,3 @@ def rocchio_feedback(query, relevant_docs, non_relevant_docs, alpha, beta, gamma
 
     return new_query
 ```
-
----
-
-*Report generated for CS419 - Assignment 02*
-*VNU-HCM University of Science*

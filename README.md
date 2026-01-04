@@ -106,13 +106,3 @@ anime_retrieval/
 
 CS419 - Introduction to Information Retrieval  
 VNU-HCM University of Science
-
----
-
-## Demo Video Requirements
-
-For your submission, record a video showing:
-1. System initialization with dataset
-2. Initial query search
-3. Multiple iterations of relevance feedback
-4. Improved results after feedback
